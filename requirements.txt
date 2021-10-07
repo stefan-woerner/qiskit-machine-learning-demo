@@ -2,3 +2,4 @@ qiskit-machine-learning>=0.2.1
 numpy>=1.17
 matplotlib>=2.1
 torch
+torchvision
