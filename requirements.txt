@@ -1,4 +1,5 @@
 qiskit-machine-learning>=0.2.1
+qiskit-aer
 numpy>=1.17
 matplotlib>=2.1
 torch
